@@ -7,5 +7,3 @@ Welcome to my page 🥳
 
 Here are some things I code with:
 
-https://img.shields.io/badge/-{name}-{background-color}?style=flat-square&logo={logo-name}&logoColor={logo-color}
-
