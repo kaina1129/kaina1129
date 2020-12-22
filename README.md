@@ -26,6 +26,6 @@ Welcome to my page 🥳
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffca28?style=flat&logo=firebase&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat&logo=Node.js&logoColor=white" />
   <img alt="Sketch" src="https://img.shields.io/badge/-Sketch-f7b500?style=flat&logo=sketch&logoColor=white" />
-  <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe_XD-ff26b5?style=flat&logo=adobexd&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232f3e?style=flat&logo=aws&logoColor=white" />
+  <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe_XD-ff26b5?style=flat&logo=adobe-xd&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws&logoColor=white" />
 </p>
