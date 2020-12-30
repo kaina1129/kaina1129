@@ -28,4 +28,5 @@ Welcome to my page 🥳
   <img alt="Sketch" src="https://img.shields.io/badge/-Sketch-f7b500?style=flat&logo=sketch&logoColor=white" />
   <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe_XD-ff26b5?style=flat&logo=adobe-xd&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
